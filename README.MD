@@ -1,4 +1,4 @@
-Installation
+TO USE THIS APP
 Download the repository as zip file to your local computer or clone the repository
 Open the downloaded file in any IDE of your choice, VSCODE preferrable
 install the dependencies: using "npm i" in you command prompt or terminal
